@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GraphicsOptions>
+	<Version>1</Version>
+	<PresetName>Custom</PresetName>
+	<StereoscopicMode>0</StereoscopicMode>
+	<IPDAmount>0.001000</IPDAmount>
+	<AMDCrashFix>false</AMDCrashFix>
+	<FOV>56.078671</FOV>
+	<HumanoidFOV>59.007462</HumanoidFOV>
+	<HighResScreenCapAntiAlias>3</HighResScreenCapAntiAlias>
+	<HighResScreenCapScale>4</HighResScreenCapScale>
+	<GammaOffset>0.230160</GammaOffset>
+	<DisableGuiEffects>false</DisableGuiEffects>
+	<StereoFocalDistance>25.000000</StereoFocalDistance>
+	<StencilDump>false</StencilDump>
+	<ShaderWarming>true</ShaderWarming>
+	<VehicleMotionBlackout>false</VehicleMotionBlackout>
+	<VehicleMaintainHorizonCamera>false</VehicleMaintainHorizonCamera>
+	<DisableCameraShake>false</DisableCameraShake>
+</GraphicsOptions>
